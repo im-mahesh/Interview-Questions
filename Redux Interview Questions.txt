@@ -1,0 +1,20 @@
+1.	What is Redux? Use of it?
+2.	Why do we need Redux?
+3.	Architecture of Redux?
+4.	What is the use of Reducers in Redux?
+5.	Why reducers are pure functions?
+6.	How to connect React components with Redux?
+7.	What are npm packages needed for React Redux integration?
+8.	Three principles of Redux?
+9.	What is the method to get the Redux store value to component?
+10.	What is the method to trigger an action?
+11.	Use of mapStateToProps and mapDispatchToProps
+12.	Syntax of Connect method?
+13.	How data flows between redux components?
+14.	What are predrntational and container components?
+15.	How to make acions as asynchronous?
+16.	What is middleware in redux? Use of it?
+17.	What is use of bindActionCreators?
+18.	Use of RootReducer?
+19.	What happens when multiple reducers has same action name after dispatching an action?
+20.	How do we define action?

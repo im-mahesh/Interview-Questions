@@ -1,0 +1,45 @@
+1.	What is React? What are the features of React?
+2.	What is virtual-DOM in React? How it works?
+3.	What is the algorithm name used in React for diffing?
+4.	What is pure function/component?
+5.	What are drawbacks of ReactJS?
+6.	What is the difference between props/state?
+7.	Controlled components vs uncontrolled components?
+8.	What is the use of super(props)?
+9.	How setState() works? Is it asynchronous or synchronous?
+10.	What is the use of callback method in setState?
+11.	What will happen if we use setState() inside the render function?
+12.	Why do we bind ES5 function in React class component?
+13.	What are the lifecycle methods and describe their use?
+14.	Difference between class vs functional components?
+15.	What is the right place to make an API call in React class component?
+16.	How to update parent state from child component?
+17.	How to avoid props drilling?
+18.	What is the value returned from ShouldComponentUpdate?
+19.	Use of context API?
+20.	New features in React?
+21.	Use of Hooks in functional components?
+22.	List of hooks and their usage?
+23.	What are the values returned from useState()?
+24.	What will happen when we don’t pass second parameter to useEffect method? Passing an empty array as a second argument? Passing state value as second argument?
+25.	What is the use of React Memo?
+26.	Difference between useCallback vs useMemo?
+27.	What is the use of key props in react?
+28.	What is HOC? Use of it?
+29.	What is render props?
+30.	What is reconciliation in react?
+31.	What is the use of JSX?
+32.	Can browser understand JSX?
+33.	How JSX converted into JS?
+34.	What is the use of props children?
+35.	What is refs in React and use of it?
+36.	Use of Fragments in React?
+37.	What are error boundaries in React? What is the method for it?
+38.	What is the use of PropTypes in React?
+39.	Can I have multiple useState hook inside one single functional component?
+40.	Can I use reactjs inside other library (or) can I integrate ReactJS with other frameworks?
+41.	Why we use className instead of class in JSX?
+42.	Why getDerivedState from error is static in react?
+43.	How events are handled in react?
+44.	What are synthetic events?
+45.	What happens when we update state with same value? Will react update or not?

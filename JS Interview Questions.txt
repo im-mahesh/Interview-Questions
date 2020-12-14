@@ -1,1 +1,93 @@
+1.	What is Hoisting in JavaScript?
+2.	How Hoisting works for Variable and Functions?
+3.	How to avoid Hoisting/ is there any other way to avoid Hoisting?
+4.	What is closure in JavaScript?
+5.	How inheritance implemented in JS/ What is prototype?
+6.	What is event bubbling, event capturing and event delegation?
+7.	JS is single threaded or multi-threaded?
+8.	Does JS support asynchronous programming?
+9.	What is event loop in JS?
+10.	What are the browser API’s?
+11.	What is callback Hell?
+12.	What is promise in JS?
+13.	What is the use of Promise Call?
+14.	What are features in ES6?
+15.	What is micro and macro queue?
+16.	What are the Advantages of Arrow Function?
+17.	Features of let and const?
+18.	Can I Change the values of object if it is declared using const Keyword?
+19.	What is the output of below function?
+20.	How to fix the output of previous function?
+21.	SetImmediate, setInterval, setTimeout – which takes highest priority? Order of Precedence?
+22.	Difference between SetInterval vs setTimeout?
+23.	What is the Output of below code?
+24.	How to create New Promise?
+25.	What are the ways to create Objects in JS?
+26.	How object create() and object assign works?
+27.	Difference between for…in and for…of?
+28.	Difference between for…in and Object.keys()?
+29.	How ‘this’ Keyword works?
+30.	Difference between call, apply and bind methods?
+31.	Use of map and filter methods?
+32.	What is the use of reduce method?
+33.	How find the Maximum number in Array? What are the ways and optimum one?
+34.	Event preventDefault vs event stopDelegation?
+35.	What is scope in JS?
+36.	What is Service worker in JS?
+37.	List of new Tags in HTML5?
+38.	What is IIFE in JS?
+39.	Can we have multiple export in single JS file?
+40.	What is Spread and Rest Operators in JS? use of these?
+41.	How Async/Await works?
+42.	What are the datatypes available in JS?
+43.	Difference between NULL and Undefined?
+44.	Typeof(null)?
+45.	What is coercion in JS?
+46.	Difference between == and === ?
+47.	How to implement custom methods /properties using Prototype?
+48.	Difference between Session storage vs Local storage?
+49.	How to Store/Retrieve values in Local Storage?
+50.	How Babel achieves let keyword implementation in ES5?
+51.	Output of console.log(5>2<1);
+52.	Output of
+    Var obj={ a:5, b:7 };
+    Var clone=obj;
+    Clone.a=9;
+    Console.log(obj);
+53.	Output of below code?
+    Var a=5;
+    Var b=a;
+    b=10;
+    console.log(a);
+    console.log(b);
+54.	What is the use of ‘new’ keyword? How it works internally?
+55.	How break and continue works?
+56.	How to create private properties in JS?
+57.	What is JSON?
+58.	What is Object literal?
+59.	What is generator function and how it works?
+60.	How to add new element to index of two in array of 5 elements?
+61.	What is pure function?
+62.	What happens when we pass Array/Object as an argument to function? Will it mutate Object/Array when we modify the argument values inside function?
+63.	List of methods in String/Array and Objects?
+64.	What is commonJS?
+65.	What are modules in ES6?
+66.	Can we have multiple default exports in one module?
+67.	What is the use of keyword extends?
+68.	What is the use of ‘use strict’?
+69.	How to remove duplicate values from array?
+70.	What is the model to find sum of Array?
+
+-----------------------------------------------
+
 1. What is Inheritance?
+2. Difference between Function Overloading and Function Overriding?
+3. What are Datatypes available?
+4. What is Polymorphism?
+5. What is Prototype?
+6. What is Abstraction?
+7. What is Encapsulation?
+8. Difference between Bit and Byte?
+9. What is bigInt?
+10. What is Polyfills?
+11. What is Interpreter?
