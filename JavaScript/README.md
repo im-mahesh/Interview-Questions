@@ -1,4 +1,4 @@
-1. ### GO TO SECOND QUESTION AND ANSWERS (#what-are-the-possible-ways-to-create-objects-in-javascript)
+**[⬆ Go to Second QA](#question-1-whats-the-difference-between-undefined-and-not-defined-in-javascript)**
 ### Table of Contents
 
 | No. | Questions |
