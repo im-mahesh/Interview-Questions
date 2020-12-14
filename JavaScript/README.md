@@ -4,7 +4,7 @@
 | No. | Questions |
 | --- | --------- |
 |   | **Core React** |
-|1  | [ What's the difference between `undefined` and `not defined` in JavaScript?](#What's-the-difference-between-undefined-and-not-defined-in-JavaScript) |
+|1  | [ What is the difference between `undefined` and `not defined` in JavaScript?](#what-is-the-difference-between-undefined-and-not-defined-in-JavaScript) |
 |2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
 |3  | [What is JSX?](#what-is-jsx) |
 |4  | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component) |
