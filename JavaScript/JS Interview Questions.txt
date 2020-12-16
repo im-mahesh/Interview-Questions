@@ -91,3 +91,8 @@
 9. What is bigInt?
 10. What is Polyfills?
 11. What is Interpreter?
+
+12 Difference between map and forEach?
+    forEach: This iterates over a list and applies some operation with side effects to each list member (example: saving every list item to the database)
+
+    map: This iterates over a list, transforms each member of that list, and returns another list of the same size with the transformed members (example: transforming list of strings to uppercase). It does not mutate the array on which it is called (although if passed a callback function, it may do so).
